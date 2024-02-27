@@ -1,6 +1,6 @@
-Abigail Latinwo - Data Science Portfolio
+# Abigail Latinwo - Data Science Portfolio
 
-About
+## About
 
 Hi, I’m Abigail! I have an analytical background in Biochemistry and currently pursuing a Master’s in Data Science, I have acquired a strong foundation in life sciences and a genuine passion for utilizing data to unveil meaningful insights. I am excited to bring my analytical and technical skills to the field of data science as an entry-level data scientist.
 
