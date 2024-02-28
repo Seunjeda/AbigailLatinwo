@@ -13,3 +13,5 @@ My CV in PDF.
 This is a repository to track my progress in Data Analysis/Science related topics, as well as show casing shared projects and skills.
 
 ### Table of Contents
+
+#### Portfolio Projects
