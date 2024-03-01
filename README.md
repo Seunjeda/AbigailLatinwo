@@ -21,7 +21,7 @@ This is a repository to track my progress in Data Analysis/Science related topic
 
 - [Education](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#education)
 
-* Certificate
+- [Certificate](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#certificate)
 
 * Contact
 
@@ -41,5 +41,16 @@ BSc (Hons) Biochemistry (2:1)
 September 2013 – July 2016
 
 ## Certificate
+Learn IT Advanced 
+Excel Certificate        In view 	2024
+
+Pitman Training
+Literacy Certificate	   January 2012 – February 2012
+
+Pitman Training 
+ECDL Certificate 	       November 2011- January 2012
+
+
+
 
 ## Contacts
