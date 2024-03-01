@@ -14,7 +14,7 @@ This is a repository to track my progress in Data Analysis/Science related topic
 
 ## Table of Contents
 
-- [About](https://github.com/AbigailLatinwo/Data-Analyst-Portfolio/blob/main/README.md#about)
+- [About](https://github.com/Seunjeda/AbigailLatinwo/Data-Analyst-Portfolio/blob/main/README.md#about)
 
 * Portfolio Projects
 
