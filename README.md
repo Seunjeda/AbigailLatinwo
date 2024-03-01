@@ -19,7 +19,7 @@ This is a repository to track my progress in Data Analysis/Science related topic
   
 
 
-* Education
+- [Education](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#education)
 
 * Certificate
 
@@ -28,6 +28,17 @@ This is a repository to track my progress in Data Analysis/Science related topic
 ## Portfolio Projects
 
 ## Education
+University of Aberdeen, Scotland
+MSc Data Science 
+January 2023 – July 2025
+
+Ulster University, Northern Ireland
+Biomedical Science Graduate Certificate
+October 2018 – May 2019
+
+University of Westminster, London
+BSc (Hons) Biochemistry (2:1)
+September 2013 – July 2016
 
 ## Certificate
 
