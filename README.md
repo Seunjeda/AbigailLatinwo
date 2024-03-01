@@ -15,8 +15,9 @@ This is a repository to track my progress in Data Analysis/Science related topic
 ## Table of Contents
 
 - [About](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#portfolio-projects)
+  
 
-* Portfolio Projects
 
 * Education
 
