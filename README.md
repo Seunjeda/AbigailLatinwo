@@ -14,6 +14,16 @@ This is a repository to track my progress in Data Analysis/Science related topic
 
 ## Table of Contents
 
+* About
+
+* Portfolio Projects
+
+* Education
+
+* Certificate
+
+* Contact
+
 ## Portfolio Projects
 
 ## Education
