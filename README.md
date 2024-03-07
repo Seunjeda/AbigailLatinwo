@@ -40,6 +40,10 @@ University of Westminster, London
 BSc (Hons) Biochemistry (2:1)
 September 2013 – July 2016
 
+City and Islington College, London
+Access to Medicine and Medical Biosciences (Distinction) 
+September 2012– July 2013
+
 ## Certificate
 Learn IT Advanced 
 Excel Certificate        In view 	2024
