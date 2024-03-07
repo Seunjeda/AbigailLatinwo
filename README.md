@@ -8,7 +8,7 @@ As I continue to progress in my studies, I have enhanced my ability to work with
 
 At leisure, I enjoy exploring new data analysis techniques and tools, and I am always seeking for opportunities to expand my skills and knowledge. Whether working as an individual or team player, I am driven by the thrill of discovering new insights and satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Abigail%20Latinwo%20CV.pdf)
+My CV in [pdf](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Data%20Science%20CV.pdf)
 
 This is a repository to track my progress in Data Analysis/Science related topics, as well as show casing shared projects and skills.
 
