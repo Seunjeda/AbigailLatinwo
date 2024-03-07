@@ -13,8 +13,8 @@ This is a repository to track my progress in Data Science related topics, as wel
 ## Table of Contents
 - [About](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#portfolio-projects)
-- Excel
-  - [Data Cleaning Process and Dashboard Creation of Bike Buyers](https://github.com/Seunjeda/AbigailLatinwo/Data-Analysis-Portfolio#Data-Cleaning-Process-Dashboard-Creation-Bike-Buyers)
+  - Excel
+    - [Data Cleaning Process and Dashboard Creation of Bike Buyers](https://github.com/Seunjeda/AbigailLatinwo/Data-Analysis-Portfolio#Data-Cleaning-Process-Dashboard-Creation-Bike-Buyers)
 
 - [Education](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#education)
 - [Certificate](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#certificate)
