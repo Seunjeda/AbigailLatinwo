@@ -1,5 +1,4 @@
 # Abigail Latinwo - Data Science Portfolio
-
 ## About
 
 Hi, I’m Abigail! I have an analytical background in Biochemistry and currently pursuing a Master’s in Data Science, I have acquired a strong foundation in life sciences and a genuine passion for utilizing data to unveil meaningful insights. I am excited to bring my analytical and technical skills to the field of data science as an entry-level data scientist.
@@ -11,13 +10,11 @@ At leisure, I enjoy exploring new data analysis techniques and tools, and I am a
 My CV in [pdf](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Abigail-latinwo%20CV.pdf)
 
 This is a repository to track my progress in Data Science related topics, as well as show casing shared projects and skills.
-
 ## Table of Contents
-
 - [About](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#portfolio-projects)
-  
-
+- Excel
+  - [Data Cleaning Process and Dashboard Creation of Bike Buyers](https://github.com/Seunjeda/AbigailLatinwo/Data-Analysis-Portfolio#Data-Cleaning-Process-Dashboard-Creation-Bike-Buyers)
 
 - [Education](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#education)
 - [Certificate](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#certificate)
