@@ -54,3 +54,6 @@ ECDL Certificate 	       November 2011- January 2012
 
 
 ## Contacts
+- LinkedIn: [@abigail-latinwo](https://www.linkedin.com/in/abigail-latinwo/)
+- Email: seunjeda@yahoo.com
+  
