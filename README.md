@@ -22,6 +22,14 @@ This is a repository to track my progress in Data Science related topics, as wel
 ## Portfolio Projects
 This section briefly describes how technology stack was used to solve data science projects. 
 
+### Data Cleaning Process and Dashboard Creation
+
+**Code:** [`Data Cleaning Process and Dashboard Creation of Bike Buyers.ipynb`](https://github.com/Seunjeda/AbigailLatinwo/PortfolioProjects/blob/main/Data%20Cleaning%20Process%20and%20Dashboard%20Creation%20of%20Bike%20Buyers.ipynb)
+
+**Goal:** To create a dashboard
+
+**Description:** This dataset contains a list of bike buyers. This project includes the following processes: data loading, data cleaning (standardisation, removing duplicates), and data preporcessing.
+
 ## Education
 University of Aberdeen, Scotland
 MSc Data Science 
