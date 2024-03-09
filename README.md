@@ -28,7 +28,11 @@ This section briefly describes how technology stack was used to solve data scien
 
 **Goal:** To create a dashboard
 
-**Description:** This dataset contains a list of bike buyers. This project includes the following processes: data loading, data cleaning (standardisation, removing duplicates), and data preporcessing.
+**Description:** This dataset contains a list of bike buyers. This project includes the following processes: data loading, data cleaning, and data preporcessing.
+
+**Skills:** Removing Duplicates, Find & Replace, Currency, IF Function, Nested IF Function, Pivot Table, Slicer Function.
+
+**Technology:** Microsoft Excel
 
 ## Education
 University of Aberdeen, Scotland
