@@ -24,7 +24,7 @@ This section briefly describes how technology stack was used to solve data scien
 
 ### Data Cleaning Process and Dashboard Creation
 
-**Code:** [`Data Cleaning Process and Dashboard Creation of Bike Buyers.ipynb`](https://github.com/Seunjeda/AbigailLatinwo/PortfolioProjects/blob/main/Data%20Cleaning%20Process%20and%20Dashboard%20Creation%20of%20Bike%20Buyers.ipynb)
+**Code:** [`Data Cleaning Process and Dashboard Creation of Bike Buyers.xlsx`](https://github.com/Seunjeda/AbigailLatinwo/PortfolioProjects/blob/main/Data%20Cleaning%20Process%20and%20Dashboard%20Creation%20of%20Bike%20Buyers.xlsx)
 
 **Goal:** To create a dashboard
 
