@@ -14,7 +14,7 @@ This is a repository to track my progress in Data Science related topics, as wel
 - [About](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#portfolio-projects)
   - Excel
-    - [Data Exploration and Dashboard Creation of Bike Buyers](https://github.com/Seunjeda/AbigailLatinwo/#data-exploration-and-dashboard-creation-of-bike-buyers)
+    - [Data Exploration and Dashboard Creation](https://github.com/Seunjeda/AbigailLatinwo/#data-exploration-and-dashboard-creation-of-bike-buyers)
  
 - [Education](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#education)
 - [Certificate](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#certificate)
@@ -22,7 +22,7 @@ This is a repository to track my progress in Data Science related topics, as wel
 ## Portfolio Projects
 This section briefly describes how technology stack was used to solve data science projects. 
 
-### Data Exploration and Dashboard Creation
+### Data Exploration and Dashboard Creation 
 
 **Code:** [`Data Exploration and Dashboard Creation of Bike Buyers.xlsx`](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Excel%20Project%20Dataset%20(Bike%20buyers).xlsx)
 
