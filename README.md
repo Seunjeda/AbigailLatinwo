@@ -22,7 +22,7 @@ This is a repository to track my progress in Data Science related topics, as wel
 ## Portfolio Projects
 This section briefly describes how technology stack was used to solve data science projects. 
 
-### Data Cleaning Process and Dashboard Creation
+### Data Exploration and Dashboard Creation
 
 **Code:** [`Data Exploration and Dashboard Creation of Bike Buyers.xlsx`](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Excel%20Project%20Dataset%20(Bike%20buyers).xlsx)
 
