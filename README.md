@@ -15,6 +15,7 @@ This is a repository to track my progress in Data Science related topics, as wel
 - [Portfolio Projects](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#portfolio-projects)
   - Excel
     - [Data Exploration and Dashboard Creation of Bike Buyers](https://github.com/Seunjeda/AbigailLatinwo/Data-Analysis-Portfolio#Data-Exploration-and-Dashboard-Creation-Bike-Buyers)
+ 
 
 - [Education](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#education)
 - [Certificate](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#certificate)
