@@ -43,7 +43,7 @@ This section briefly describes how technology stack was used to solve data scien
 
 **Goal:** The major aim of this project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
-**Code:** [`Data Cleaning and Exploratory Data Analysis: Walmart Sales.sql`](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Data%20Cleaning%20Project%20:Walmart%20Sales.sql)
+**Code:** [`Data Cleaning and Exploratory Data Analysis: Walmart Sales.sql`](https://github.com/Seunjeda/PortfolioProjects/blob/main/Data%20Cleaning%20and%20Exploratory%20Data%20Analysis%20-%20Walmart%20Sales.sql)
 
 **Description:** This dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. It contains sales transactions from three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows.
 
