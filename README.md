@@ -14,7 +14,7 @@ This is a repository to track my progress in Data Science related topics, as wel
 - [About](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#portfolio-projects)
   - Excel
-    - [Data Exploration and Dashboard Creation of Bike Buyers](https://github.com/Seunjeda/AbigailLatinwo/#data-exploration-and-dashboard-creation-of-bike-buyers)
+    - [Data Exploration and Dashboard Creation](https://github.com/Seunjeda/AbigailLatinwo/#data-exploration-and-dashboard-creation)
   - SQL
     - [Walmart Sales Data Analysis](https://github.com/Seunjeda/AbigailLatinwo#Walmart-Sales-Data-Analysis)
     
