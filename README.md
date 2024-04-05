@@ -22,6 +22,8 @@ This is a repository to track my progress in Data Science related topics, as wel
 - [Education](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#education)
 - [Certificate](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#certificate)
 - [Contact](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#contacts)
+
+  
 ## Portfolio Projects
 This section briefly describes how technology stack was used to solve data science projects. 
 
