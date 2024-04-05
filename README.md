@@ -15,6 +15,8 @@ This is a repository to track my progress in Data Science related topics, as wel
 - [Portfolio Projects](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#portfolio-projects)
   - Excel
     - [Data Exploration and Dashboard Creation of Bike Buyers](https://github.com/Seunjeda/AbigailLatinwo/#data-exploration-and-dashboard-creation-of-bike-buyers)
+  - SQL
+    - [Walmart Sales Data Analysis](https://github.com/Seunjeda/AbigailLatinwo#Walmart-Sales-Data-Analysis)
     
  
 - [Education](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#education)
@@ -34,6 +36,22 @@ This section briefly describes how technology stack was used to solve data scien
 **Skills:** Removing Duplicates, Find & Replace, Currency, IF Function, Nested IF Function, Pivot Table, Slicer Function.
 
 **Technology:** Microsoft Excel
+
+
+
+### Walmart Sales Data Analysis
+
+**Goal:** The major aim of this project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+
+**Code:** [`Data Cleaning and Exploratory Data Analysis: Walmart Sales.sql`](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Data%20Cleaning%20Project%20:Walmart%20Sales.sql)
+
+**Description:** This dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. It contains sales transactions from three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows.
+
+**Skills:** Data Wrangling, Feature Engineering, Exploratory Data Analysis.
+
+**Technology:** MYSQL
+
+
 
 ## Education
 University of Aberdeen, Scotland
