@@ -14,7 +14,7 @@ This is a repository to track my progress in Data Science related topics, as wel
 - [About](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#portfolio-projects)
   - Excel
-    - [Data Exploration and Dashboard Creation](https://github.com/Seunjeda/AbigailLatinwo/#data-exploration-and-dashboard-creation)
+    - [Bike Sales Analysis](https://github.com/Seunjeda/AbigailLatinwo#Bike-Sales-Analysis)
   - SQL
     - [Walmart Sales Data Analysis](https://github.com/Seunjeda/AbigailLatinwo#Walmart-Sales-Data-Analysis)
     
@@ -25,9 +25,9 @@ This is a repository to track my progress in Data Science related topics, as wel
 ## Portfolio Projects
 This section briefly describes how technology stack was used to solve data science projects. 
 
-### Data Exploration and Dashboard Creation 
+### Bike Sales Data Analysis
 
-**Code:** [`Data Exploration and Dashboard Creation of Bike Buyers.xlsx`](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Excel%20Project%20Dataset%20(Bike%20buyers).xlsx)
+**Code:** [`Data Exploration and Dashboard Creation: Bike Buyers.xlsx`](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Data%20Cleaning%20Project%20:Bike%20Buyers.xlsx)
 
 **Goal:** To create a dashboard
 
