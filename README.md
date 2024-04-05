@@ -27,7 +27,8 @@ This section briefly describes how technology stack was used to solve data scien
 
 ### Bike Sales Data Analysis
 
-**Code:** [`Data Exploration and Dashboard Creation: Bike Buyers.xlsx`](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Excel%20Project%20Dataset%20Bike%20buyers.xlsx)
+**Code:** [`Data Exploration and Dashboard Creation: Bike Buyers.xlsx`](https://github.com/Seunjeda/AbigailLatinwo/blob/main/Data%20Cleaning%20Project%20:Bike%20Buyers.xlsx)
+
 
 **Goal:** To create a dashboard
 
