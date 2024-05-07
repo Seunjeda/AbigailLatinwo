@@ -17,6 +17,7 @@ This is a repository to track my progress in Data Science related topics, as wel
     - [Bike Sales Data Analysis](https://github.com/Seunjeda/AbigailLatinwo#Bike-Sales-Data-Analysis)
   - SQL
     - [Walmart Sales Data Analysis](https://github.com/Seunjeda/AbigailLatinwo#Walmart-Sales-Data-Analysis)
+    - [World Layoffs Data Cleaning](https://github.com/Seunjeda/AbigailLatinwo#World-Layoffs-Data-Cleaning)
     
  
 - [Education](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#education)
@@ -47,11 +48,27 @@ This section briefly describes how technology stack was used to solve data scien
 
 **Code:** [`Data Cleaning and Exploratory Data Analysis: Walmart Sales.sql`](https://github.com/Seunjeda/PortfolioProjects/blob/main/Data%20Cleaning%20and%20Exploratory%20Data%20Analysis%20-%20Walmart%20Sales.sql)
 
-**Description:** This dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. It contains sales transactions from three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows.
+**Description:** This dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. It contains sales transactions from three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
 
 **Skills:** Data Wrangling, Feature Engineering, Exploratory Data Analysis.
 
 **Technology:** MYSQL
+
+
+
+### World Layoffs Data Cleaning
+
+**Goal:** The aim of this project is to clean the clean the data to check/remove duplicates, standardise data/fix errors, look at null values, and  remove unwanted rows/columns.
+
+**Code:** [`Data Cleaning Project : World Layoffs.sql`](https://github.com/Seunjeda/PortfolioProjects/blob/main/World%20Layoffs%20Data%20Cleaning.sql)
+
+**Description:** This dataset contains records of tech companies that have been laid off due to COVID-19 pandemic between 2020 and 2024. This project includes the following steps: data loading, data cleaning, preprocessing.
+
+**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+**Technology:** MYSQL
+
 
 
 
