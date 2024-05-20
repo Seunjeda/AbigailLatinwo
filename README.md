@@ -13,7 +13,7 @@ This is a repository to track my progress in Data Science related topics, as wel
 ## Table of Contents
 - [About](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Seunjeda/AbigailLatinwo/blob/main/README.md#portfolio-projects)
-  - Excel
+  - Excel / Google Sheets
     - [Bike Sales Data Analysis](https://github.com/Seunjeda/AbigailLatinwo#Bike-Sales-Data-Analysis)
   - SQL
     - [Walmart Sales Data Analysis](https://github.com/Seunjeda/AbigailLatinwo#Walmart-Sales-Data-Analysis)
